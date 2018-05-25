@@ -5,6 +5,3 @@ var myArray = [
 
 // print Hello 1 b a in the console
 
-console.log('Hello' + " " + myArray[0][0] + " " + myArray[1][1] + " " + myArray[1][0]);
-
-console.log('Hello' + " " + myArray[0][0] + " " + myArray[1][1] + " " + myArray[1][0]);
